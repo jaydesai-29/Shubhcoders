@@ -1,0 +1,8 @@
+{
+  "name": "QuickCourt",
+  "description": "Premium full-stack sports facility discovery and booking platform featuring real-time court availability, instant reservations, facility owner SaaS management, and administrative control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
