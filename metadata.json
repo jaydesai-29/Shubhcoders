@@ -1,0 +1,6 @@
+{
+  "name": "GlobeTrotter",
+  "description": "Personalized global multi-city travel itineraries, world landmarks, iconic street food spots, botanical gardens, and budget management across 25 worldwide destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
